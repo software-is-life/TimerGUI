@@ -23,3 +23,6 @@ countdown timer:
 stopwatch:
 - buttons: start, stop, reset
 - start button changes to stop when stopwatch is being run
+
+CHANGELOG:
+- 05/09/21 Made MVP Countdown and Stopwatch Calculator that receives customer input and outputs time elapsed.
