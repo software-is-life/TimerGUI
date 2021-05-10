@@ -79,7 +79,8 @@ void countDownTimer(double hours, double minutes, double seconds)
     }
 }
 
-void countdownUserPrompt() {
+void countdownUserPrompt() 
+{
     cout << "Please enter desired countdown time\n";
     double hours = 0.0;
     double minutes = 0.0;
